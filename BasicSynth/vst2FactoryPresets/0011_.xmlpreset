@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<Preset pluginId="78376d36" name="Preset 12">
+ <Param id="125216926" val="10" />
+ <Param id="126140012" val="5" />
+ <Param id="269268699" val="0" />
+ <Param id="313723841" val="-5" MIDI="-16777216" />
+ <Param id="406515827" val="8" />
+ <Param id="490964469" val="0" />
+ <Param id="633366883" val="0" MIDI="-16777216" />
+ <Param id="989331424" val="5" />
+ <Param id="1034121276" val="7" />
+ <Param id="1123089759" val="" />
+ <Param id="1137354401" val="5" MIDI="-16777216" />
+ <Param id="1191820566" val="4" />
+ <Param id="1254706942" val="0" />
+ <Param id="1284250863" val="1" />
+ <Param id="1322789953" val="1" />
+ <Param id="1431423017" val="5" />
+ <Param id="1437127625" val="0" />
+ <Param id="1551924909" val="0" />
+ <Param id="1572293713" val="8" />
+ <Param id="1601223240" val="8" />
+ <Param id="1664628613" val="0" />
+ <Param id="1799841705" val="1" />
+ <Param id="1900725992" val="0" />
+ <Param id="1915553097" val="10" />
+ <Param id="2144150560" val="8" />
+</Preset>
